@@ -1,6 +1,6 @@
-# yFiles Testing with mocha+Puppeteer
+# yFiles Testing with Mocha+Puppeteer
 
-A small sample showing how to test the yFiles library with [mocha](https://mochajs.org/) and [puppetteer](https://github.com/GoogleChrome/puppeteer)/chrome headless
+A small sample showing how to test the yFiles library with [Mocha](https://mochajs.org/) and [Puppetteer](https://github.com/GoogleChrome/puppeteer)/chrome headless
 
 ## Installation
 
