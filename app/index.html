@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GraphComponent Test</title>
+</head>
+<body>
+<div id="graphComponent"></div>
+<script type="module">
+  import {License} from './vendor/yfiles/es6-modules/lang.js';
+  import {GraphComponent} from './vendor/yfiles/es6-modules/view-component.js';
+
+  License.value = {
+    // license content here
+  };
+
+  window.graphComponent = new GraphComponent('graphComponent')
+
+</script>
+</body>
+</html>

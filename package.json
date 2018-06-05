@@ -1,0 +1,16 @@
+{
+  "name": "mocha-pupeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "server": "http-server app -a localhost",
+    "test": "mocha --timeout 10000 --recursive test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "http-server": "^0.11.1",
+    "mocha": "^5.2.0",
+    "puppeteer": "^1.4.0"
+  }
+}
