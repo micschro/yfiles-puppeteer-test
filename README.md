@@ -10,7 +10,7 @@ or
 
 ## Running
 
-1. Add your yFiles for HTML license content in `index.html`
+1. Add your yFiles for HTML license content in `app/index.html`
 2. Put the `es6-modules/` folder of your yFiles for HTML package into `./app/vendor/yfiles/`
 3. `yarn run server` or `npm run server`
 3. `yarn run test` or `npm run test`
